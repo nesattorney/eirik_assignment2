@@ -1,1 +1,1 @@
-# eirik_lars_marius_data_science_project
+# eirik_assignment_2
